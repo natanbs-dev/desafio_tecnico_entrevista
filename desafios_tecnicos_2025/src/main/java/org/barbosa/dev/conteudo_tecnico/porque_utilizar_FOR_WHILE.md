@@ -6,7 +6,7 @@
 
 **no caso**:
 > - Sabendo da situação, é preferível usar
-o for quando se sabe o números de interações ou quando
+o _FOR_ quando se sabe o números de interações ou quando
 é sabido que está sendo usado entrutura de dados (lista, arrays)
 
 **quando usar o WHILE?**
